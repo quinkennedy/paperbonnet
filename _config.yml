@@ -1,0 +1,18 @@
+# Site settings
+title: PaperBon.net
+email: info@paperbon.net
+description: "Website of PaperBon.net publisher."
+baseurl: ""
+url: "http://paperbon.net"
+username: "papermaster"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#GitHub defaults
+safe: true
+lsi: false
+
+#Vagrant settings
+exclude: [Vagrantfile]
