@@ -2,7 +2,7 @@
 title: PaperBon.net
 email: info@paperbon.net
 description: "Website of PaperBon.net publisher."
-baseurl: ""
+baseurl: "/paperbonnet"
 url: "http://paperbon.net"
 username: "papermaster"
 
