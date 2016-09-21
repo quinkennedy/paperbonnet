@@ -13,5 +13,5 @@ For Foo Camp 2015, [Josh](https://twitter.com/brunchstorm) and [James](https://t
 
 The version that was used for this zine is more programmatically laid-out than generative. It does include variable replacement for per-zine customization. We are planning on continuing to develop this program to move toward a constraint-based and generative system.
 
-* [github](https://github.com/adenine/sensory-aesthetics-zine-01/)
+* [Code Repository](https://github.com/adenine/sensory-aesthetics-zine-01/)
 * [Sensory Aesthetics](http://sensory.cc)

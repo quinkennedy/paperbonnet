@@ -30,4 +30,4 @@ It was layed out so it could be quickly folded and handed to participants
 without needing to cut or bind the pages.
 The booklet was laid out using a custom Processing sketch derived from the [Sensory Aesthetics Zine 1](/art/2015/08/01/sensory-aesthetics-zine/)
 
-* [Badge Github](https://github.com/quinkennedy/arthackdaysea16badges/)
+* [Badge Code Repository](https://github.com/quinkennedy/arthackdaysea16badges/)
