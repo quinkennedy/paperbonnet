@@ -6,6 +6,9 @@ baseurl: "/paperbonnet"
 url: "http://paperbon.net"
 username: "papermaster"
 
+# Serve settings
+host: 0.0.0.0
+
 # Build settings
 markdown: kramdown
 permalink: pretty
@@ -15,4 +18,4 @@ safe: true
 lsi: false
 
 #Vagrant settings
-exclude: [Vagrantfile]
+exclude: [Vagrantfile, README.md]
